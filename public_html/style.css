@@ -1,3 +1,11 @@
-#welcomeimg{
-    height: 450px;
+.navbar{
+    font-family: 'Boogaloo', cursive;
+}
+
+.card-title{
+    font-family: 'Vast Shadow', cursive
+}
+.card-text{
+    font-family: 'Bebas Neue', cursive;
+    color: ivory;
 }
