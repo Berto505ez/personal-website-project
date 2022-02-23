@@ -1,11 +1,25 @@
 .navbar{
-    font-family: 'Boogaloo', cursive;
+    font-family: 'Bebas Neue', cursive;
+}
+#navTitle{
+    color: darkturquoise;
 }
 
 .card-title{
     font-family: 'Vast Shadow', cursive
 }
+
 .card-text{
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Vast Shadow', cursive;
     color: ivory;
 }
+ #aboutMe{
+     font-family: 'Boogaloo', cursive;
+ }
+ .carousel-inner{
+     font-family: 'Boogaloo', cursive;
+ }
+
+ .form-label{
+     font-family: 'Bebas Neue', cursive;
+ }
